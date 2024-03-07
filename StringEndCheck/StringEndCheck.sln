@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEndCheck", "StringEndCheck\StringEndCheck.csproj", "{E4C50E94-D4CF-422D-B132-361A7B312DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C50E94-D4CF-422D-B132-361A7B312DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C50E94-D4CF-422D-B132-361A7B312DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C50E94-D4CF-422D-B132-361A7B312DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C50E94-D4CF-422D-B132-361A7B312DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1B5805-EC1F-463A-BCE7-EDCC44E5F89E}
+	EndGlobalSection
+EndGlobal

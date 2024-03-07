@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/bin/Debug/net6.0/StringEndCheck
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/bin/Debug/net6.0/StringEndCheck.deps.json
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/bin/Debug/net6.0/StringEndCheck.runtimeconfig.json
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/bin/Debug/net6.0/StringEndCheck.dll
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/bin/Debug/net6.0/StringEndCheck.pdb
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/StringEndCheck.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/StringEndCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/StringEndCheck.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/StringEndCheck.AssemblyInfo.cs
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/StringEndCheck.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/StringEndCheck.dll
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/refint/StringEndCheck.dll
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/StringEndCheck.pdb
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/StringEndCheck.genruntimeconfig.cache
+/Users/thatisphii/Desktop/CodeWars/StringEndCheck/StringEndCheck/obj/Debug/net6.0/ref/StringEndCheck.dll
