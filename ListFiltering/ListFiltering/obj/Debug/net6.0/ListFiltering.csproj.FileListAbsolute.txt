@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.exe
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.deps.json
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.runtimeconfig.json
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.dll
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\bin\Debug\net6.0\ListFiltering.pdb
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.sourcelink.json
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.dll
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\refint\ListFiltering.dll
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.pdb
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\ListFiltering.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeWarsTasks\ListFiltering\ListFiltering\obj\Debug\net6.0\ref\ListFiltering.dll

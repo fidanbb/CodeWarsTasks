@@ -43,16 +43,16 @@
 #endregion
 
 #region solution 2
-//static string SpinWords(string sentence)
-//{
-//    string[] words = sentence.Split(' ');
-//    return string.Join(" ", words.Select(word => word.Length >= 5 ? new string(word.Reverse().ToArray()) : word));
+static string SpinWords(string sentence)
+{
+    string[] words = sentence.Split(' ');
+    return string.Join(" ", words.Select(word => word.Length >= 5 ? new string(word.Reverse().ToArray()) : word));
 
 
-//}
-//Console.WriteLine(SpinWords("Hey fellow warriors"));
-//Console.WriteLine(SpinWords("This is a test"));
-//Console.WriteLine(SpinWords("This is another test"));
+}
+Console.WriteLine(SpinWords("Hey fellow warriors"));
+Console.WriteLine(SpinWords("This is a test"));
+Console.WriteLine(SpinWords("This is another test"));
 #endregion
 
 
