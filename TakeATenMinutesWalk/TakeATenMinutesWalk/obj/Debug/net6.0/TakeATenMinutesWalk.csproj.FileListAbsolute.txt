@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\bin\Debug\net6.0\TakeATenMinutesWalk.exe
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\bin\Debug\net6.0\TakeATenMinutesWalk.deps.json
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\bin\Debug\net6.0\TakeATenMinutesWalk.runtimeconfig.json
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\bin\Debug\net6.0\TakeATenMinutesWalk.dll
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\bin\Debug\net6.0\TakeATenMinutesWalk.pdb
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\TakeATenMinutesWalk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\TakeATenMinutesWalk.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\TakeATenMinutesWalk.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\TakeATenMinutesWalk.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\TakeATenMinutesWalk.sourcelink.json
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\TakeATenMinutesWalk.dll
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\refint\TakeATenMinutesWalk.dll
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\TakeATenMinutesWalk.pdb
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\TakeATenMinutesWalk.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeWarsTasks\TakeATenMinutesWalk\TakeATenMinutesWalk\obj\Debug\net6.0\ref\TakeATenMinutesWalk.dll
