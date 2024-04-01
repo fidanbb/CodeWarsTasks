@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\bin\Debug\net6.0\HighestAndLowest.exe
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\bin\Debug\net6.0\HighestAndLowest.deps.json
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\bin\Debug\net6.0\HighestAndLowest.runtimeconfig.json
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\bin\Debug\net6.0\HighestAndLowest.dll
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\bin\Debug\net6.0\HighestAndLowest.pdb
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\HighestAndLowest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\HighestAndLowest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\HighestAndLowest.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\HighestAndLowest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\HighestAndLowest.sourcelink.json
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\HighestAndLowest.dll
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\refint\HighestAndLowest.dll
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\HighestAndLowest.pdb
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\HighestAndLowest.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeWarsTasks\HighestAndLowest\HighestAndLowest\obj\Debug\net6.0\ref\HighestAndLowest.dll
